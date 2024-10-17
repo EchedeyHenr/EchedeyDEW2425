@@ -1,0 +1,19 @@
+#table-container {
+    background-image: url('images/timanfaya.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98vw;
+    height: 100vh;
+    position: relative;
+    margin: 0 auto;
+
+}
+
+.brick {
+    width: 100px;
+    height: 50px;
+    background-color:rgb(146, 58, 58);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
